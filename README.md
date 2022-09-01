@@ -7,7 +7,7 @@
 :house_with_garden: I'm from Brazil.
 
 ## About me
-<div align='center'>
+<div>
 <img align='left' height="155" hspace="0" alt="github icon" src="https://github-readme-stats.vercel.app/api?username=carlos-souza-lima&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&border_radius=20%"/> <img align='rigth' height="150" hspace="0" alt="github icon" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-souza-lima&bg_color=151515&hide_border=true&border_radius=20%&layout=compact" />
 </div>
 
